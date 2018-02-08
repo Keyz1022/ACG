@@ -1,0 +1,597 @@
+# Translation of Themes - Wedding Band in Vietnamese
+# This file is distributed under the same license as the Themes - Wedding Band package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-12 09:31:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Wedding Band\n"
+
+#. Description of the plugin/theme
+msgid "Wedding Band is an elegantly designed WordPress theme for wedding websites. Wedding Band has been created as a solution for couples or wedding planners in need of a solid, easy to use and highly effective platform for putting together amazingly stylish wedding websites within minutes, Wedding band has been carefully crafted with attention to detail in every single nook and cranny to ensure you can build a perfectly visually appealing website using the theme. This exceptional and multipurpose template is customizable, well-organized and equipped with extraordinary features that you can use for building a website for your wedding. The theme is SEO friendly with optimized codes, which make it easy for your site to rank on Google and other search engines. The theme is rigorously tested and optimized for speed and faster page load time and has a secure and clean code. The theme is also translation ready. Designed with visitor engagement in mind, Wedding Band helps you to easily and intuitively create beautiful and appealing websites. Check the demo at https://raratheme.com/preview/wedding-band/, documentation at https://raratheme.com/documentation/wedding-band/, and get support at https://raratheme.com/support-ticket/."
+msgstr "Wedding Band là một chủ đề WordPress thiết kế trang nhã cho các trang web đám cưới. Wedding Band đã được tạo ra như là một giải pháp cho các cặp vợ chồng hoặc chuyên gia hôn lễ đang cần một nền tảng vững chắc, dễ sử dụng và đặt hiệu quả cao cho trang web đám cưới trong vòng vài phút, với sự chú ý đến từng chi tiết trong sự sáng tạo Và tinh tế để đảm bảo bạn có thể xây dựng một trang web hấp dẫn trực quan hoàn toàn bằng cách sử dụng chủ đề. mẫu đặc biệt và đa năng này được tùy biến, được tổ chức tốt và được trang bị với các tính năng đặc biệt mà bạn có thể sử dụng để xây dựng một trang web cho đám cưới của bạn. Chủ đề là SEO thân thiện với mã tối ưu, làm cho nó dễ dàng cho trang web của bạn để xếp hạng trên Google và các công cụ tìm kiếm khác. Chủ đề được kiểm tra chặt chẽ và tối ưu hóa cho thời gian tải tốc độ và trang nhanh hơn và có một mã an toàn và sạch sẽ. Chủ đề cũng đã được dịch sẵn sàng. Được thiết kế với sự tham gia của du khách, Wedding Band giúp bạn dễ dàng và trực quan tạo ra các trang web đẹp và hấp dẫn. Kiểm tra bản giới thiệu tại https://raratheme.com/preview/wedding-band/, tài liệu tại  https://raratheme.com/documentation/wedding-band/, và nhận hỗ trợ tại https://raratheme.com/support-ticket/."
+
+#. Theme Name of the plugin/theme
+msgid "Wedding Band"
+msgstr "Ban nhạc cưới"
+
+#: inc/customizer/info.php:56
+msgid "About Wedding Band"
+msgstr "Giới thiệu Wedding Band"
+
+#: inc/customizer/info.php:51
+msgid "More WordPress Themes"
+msgstr "Thêm chủ đề WordPress"
+
+#: inc/customizer/info.php:50
+msgid "Rate this theme"
+msgstr "Xếp hạng chủ đề này"
+
+#: inc/customizer/info.php:49
+msgid "Support ticket"
+msgstr "Hỗ trợ vé"
+
+#: inc/customizer/info.php:48
+msgid "Theme info"
+msgstr "Thông tin chủ đề"
+
+#: inc/customizer/info.php:47
+msgid "View documentation"
+msgstr "Xem tài liệu"
+
+#: inc/customizer/info.php:46 inc/customizer/info.php:47
+#: inc/customizer/info.php:48 inc/customizer/info.php:49
+#: inc/customizer/info.php:50 inc/customizer/info.php:51
+msgid "here"
+msgstr "Ở đây"
+
+#: inc/customizer/info.php:46
+msgid "View demo"
+msgstr "Xem bản demo"
+
+#: inc/customizer/info.php:45
+msgid "Need help?"
+msgstr "Cần giúp đỡ?"
+
+#: inc/customizer/info.php:33
+msgid ""
+"<strong>Instruction for how to setup Home Page in Wedding Band Theme</strong><br/>1. Go to Pages and create a new page (Title can be anything. For example, Home )<br/>\n"
+"2. In right column and under Page Attributes, choose \"Home Page\" template<br/>\n"
+"3. Click on Publish<br/>\n"
+"4. Go to Appearance-> Customize -> Default Settings -> Static Front Page<br/>\n"
+"5. Select A static page<br/>\n"
+"6. Under Front Page, select the page that you created in the step 1<br/>\n"
+"7. Save changes"
+msgstr ""
+"<strong>Hướng dẫn cách thiết lập trang chủ trong chủ đề Wedding Band</strong><br/>1. Chuyển đến Trang và tạo một trang mới (Tiêu đề có thể là bất cứ điều gì. Ví dụ: Trang chủ )<br/>\n"
+"2.Trong cột bên phải và bên dưới Thuộc tính trang, chọn mẫu \"Trang chủ\"<br/>\n"
+"3. Nhấp vào Xuất bản<br/>\n"
+"4. Chuyển đến Xuất hiện -> Tùy chỉnh -> Cài đặt Mặc định -> Trang tĩnh<br/>\n"
+"5. Chọn Một trang tĩnh<br/>\n"
+"6. Dưới Trang Chủ, chọn trang mà bạn đã tạo trong bước 1<br/>\n"
+"7. Lưu thay đổi"
+
+#: inc/customizer/info.php:12
+msgid "Information Links"
+msgstr "Liên kết thông tin"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Trang chủ"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:28 template-parts/content.php:31
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:29 template-parts/content-single.php:33
+#: template-parts/content.php:37
+msgid "Pages:"
+msgstr "Trang:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Dường như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm kiếm có thể giúp đỡ."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có gì phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử lại với một số từ khóa khác nhau."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng để đăng bài viết đầu tiên của bạn? <a href=\"%1$s\">Bắt đầu tại đây </a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không kết quả"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Tìm kiếm kết quả cho: %s"
+
+#: inc/widgets/widgets.php:39
+msgid "Widget for Google map section( Use Text widget for Google Map )."
+msgstr "Widget cho phần bản đồ của Google (sử dụng phụ đề Văn bản cho Google Map)."
+
+#: inc/widgets/widgets.php:37
+msgid "Google Map Widget"
+msgstr "Widget của Google Map"
+
+#: inc/widgets/widgets.php:34
+msgid "Add footer four widgets."
+msgstr "Thêm 4 widgets vào chân trang"
+
+#: inc/widgets/widgets.php:32
+msgid "Footer Four"
+msgstr "Bốn chân trang"
+
+#: inc/widgets/widgets.php:29
+msgid "Add footer three widgets."
+msgstr "Thêm 3 widgets vào chân trang"
+
+#: inc/widgets/widgets.php:27
+msgid "Footer Three"
+msgstr " Ba chân trang"
+
+#: inc/widgets/widgets.php:24
+msgid "Add footer two widgets."
+msgstr "Thêm 2 widgets vào chân trang"
+
+#: inc/widgets/widgets.php:22
+msgid "Footer Two"
+msgstr "Hai chân trang"
+
+#: inc/widgets/widgets.php:19
+msgid "Add footer one widgets."
+msgstr "Thêm 1 widgets vào chân trang"
+
+#: inc/widgets/widgets.php:17
+msgid "Footer One"
+msgstr "Một chân trang"
+
+#: inc/widgets/widgets.php:14
+msgid "Add widgets here."
+msgstr "Thêm widget ở đây."
+
+#: inc/widgets/widgets.php:12
+msgid "Right Sidebar"
+msgstr "Thanh bên phải"
+
+#: inc/widgets/widget-social-links.php:116
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/widgets/widget-social-links.php:67
+#: inc/widgets/widget-social-links.php:131
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/widgets/widget-social-links.php:65
+#: inc/widgets/widget-social-links.php:126
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/widgets/widget-social-links.php:63
+#: inc/widgets/widget-social-links.php:121
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/widgets/widget-social-links.php:61
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/widgets/widget-social-links.php:59
+#: inc/widgets/widget-social-links.php:111
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/widgets/widget-social-links.php:57
+#: inc/widgets/widget-social-links.php:106
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widgets/widget-social-links.php:55
+#: inc/widgets/widget-social-links.php:101
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/widgets/widget-social-links.php:26
+msgid "A Social Links Widget."
+msgstr "Widget Liên kết Xã hội."
+
+#: inc/widgets/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr "RARA: Liên kết Xã hội"
+
+#: inc/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "Một tiện ích đăng bài gần đây"
+
+#: inc/widgets/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr "RARA: bài đăng gần đây"
+
+#: inc/widgets/widget-popular-post.php:125
+#: inc/widgets/widget-recent-post.php:124
+msgid "Show Post Date"
+msgstr "Hiển thị Ngày đăng"
+
+#: inc/widgets/widget-popular-post.php:120
+#: inc/widgets/widget-recent-post.php:119
+msgid "Show Post Thumbnail"
+msgstr "Hiển thị hình thu nhỏ bài viết"
+
+#: inc/widgets/widget-popular-post.php:114
+#: inc/widgets/widget-recent-post.php:113
+msgid "Number of Posts"
+msgstr "Số bài viết"
+
+#: inc/widgets/widget-popular-post.php:109
+#: inc/widgets/widget-recent-post.php:108
+#: inc/widgets/widget-social-links.php:96
+msgid "Title"
+msgstr "Chức vụ"
+
+#: inc/widgets/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr "Tiện ích Bài đăng Phổ biến"
+
+#: inc/widgets/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr "RARA: Bài đăng phổ biến"
+
+#: inc/template-functions.php:356
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/template-functions.php:356
+msgid "Powered by %s"
+msgstr "Được hỗ trợ bởi %s"
+
+#: inc/template-functions.php:355
+msgid "Wedding Band by Rara Theme."
+msgstr "Wedding Band by Rara Theme."
+
+#: inc/template-functions.php:352
+msgid "&copy; Copyright "
+msgstr "&Sao chép; Bản quyền "
+
+#: inc/template-functions.php:239
+msgid "About %s"
+msgstr "Giới thiệu %s"
+
+#: inc/metabox.php:40
+msgid "Choose Sidebar Template"
+msgstr "Chọn Mẫu thanh bên"
+
+#: inc/metabox.php:28
+msgid "No sidebar"
+msgstr "Không có thanh bên"
+
+#: inc/metabox.php:23
+msgid "Right sidebar (default)"
+msgstr "Thanh bên phải (mặc định)"
+
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr "Bố cục thanh bên"
+
+#: inc/extras.php:110
+msgid "Page"
+msgstr "Trang"
+
+#: inc/extras.php:109
+msgid ">>"
+msgstr ">>"
+
+#: inc/extras.php:108
+msgid "<<"
+msgstr "<<"
+
+#. translators: %s: Name of current post
+#: inc/extras.php:48
+msgid "Edit %s"
+msgstr "Sửa %s"
+
+#: inc/extras.php:41
+msgid "Tags:  %1$s"
+msgstr "Tags:  %1$s"
+
+#: inc/extras.php:23
+msgid "% Comments"
+msgstr "% Bình luận"
+
+#: inc/extras.php:23
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#. translators: %s: post title
+#: inc/extras.php:23
+msgid "Leave a comment"
+msgstr "Để lại lời bình luận"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:14 inc/extras.php:39
+msgid ", "
+msgstr ", "
+
+#: inc/customizer/home.php:18
+msgid "Customize Home Page Settings"
+msgstr "Tùy chỉnh Cài đặt Trang chủ"
+
+#: inc/customizer/home.php:17
+msgid "Home Page Settings"
+msgstr "Cài đặt Trang chủ"
+
+#: inc/customizer/home/story.php:52
+msgid "Select Story Post"
+msgstr "Chọn Câu chuyện bài viết"
+
+#: inc/customizer/home/story.php:34
+msgid "Enable story Section"
+msgstr "Kích hoạt tính năng Phần câu chuyện"
+
+#: inc/customizer/home/story.php:16
+msgid "Story Section"
+msgstr "Phần câu chuyện"
+
+#: inc/customizer/home/slider.php:146
+msgid "Choose Slider Category"
+msgstr "Chọn danh mục Slider"
+
+#: inc/customizer/home/slider.php:128
+msgid "Readmore Text"
+msgstr "Đọc thêm Văn bản"
+
+#: inc/customizer/home/slider.php:120 sections/banner.php:8
+msgid "View More"
+msgstr "Xem thêm"
+
+#: inc/customizer/home/slider.php:111
+msgid "Slide"
+msgstr "Trượt"
+
+#: inc/customizer/home/slider.php:110
+msgid "Fade"
+msgstr "Phai màu"
+
+#: inc/customizer/home/slider.php:106
+msgid "Choose Slider Animation"
+msgstr "Chọn Hoạt ảnh Slider"
+
+#: inc/customizer/home/slider.php:88
+msgid "Enable Slider Caption"
+msgstr "Bật Tiêu đề Slider"
+
+#: inc/customizer/home/slider.php:70
+msgid "Enable Slider Loop"
+msgstr "Kích hoạt tính năng trượt Vòng"
+
+#: inc/customizer/home/slider.php:52
+msgid "Enable Slider Auto Transition"
+msgstr "Bật tính năng tự động trượt tự động"
+
+#: inc/customizer/home/slider.php:34
+msgid "Enable Slider Section"
+msgstr "Kích hoạt tính năng trượt mục"
+
+#: inc/customizer/home/slider.php:16
+msgid "Slider Section"
+msgstr "Phần trượt"
+
+#: inc/customizer/home/services.php:137
+msgid "Post Four"
+msgstr "Đăng Bốn"
+
+#: inc/customizer/home/services.php:119
+msgid "Post Three"
+msgstr "Đăng ba"
+
+#: inc/customizer/home/services.php:101
+msgid "Post Two"
+msgstr "Đăng hai"
+
+#: inc/customizer/home/services.php:83
+msgid "Post One"
+msgstr "Đăng một"
+
+#: inc/customizer/home/services.php:34
+msgid "Enable Service Section"
+msgstr "Bật Phần Dịch vụ"
+
+#: inc/customizer/home/services.php:16
+msgid "Service Section"
+msgstr "Phòng Dịch vụ"
+
+#: inc/customizer/home/map.php:33
+msgid "Enable Google map Section"
+msgstr "Bật Mục Google map"
+
+#: inc/customizer/home/map.php:15
+msgid "Google Map Section"
+msgstr "Google Map Phần"
+
+#: inc/customizer/home/feature.php:82
+msgid "Choose Post Category"
+msgstr "Chọn thể loại bài đăng"
+
+#: inc/customizer/home/feature.php:34
+msgid "Enable Featured Post Section"
+msgstr "Kích hoạt tính năng bài viết nổi bật"
+
+#: inc/customizer/home/feature.php:16
+msgid "Featured Post Section"
+msgstr "Bài viết nổi bật"
+
+#: inc/customizer/home/contactform.php:128
+msgid "Enter the Contact Form Shortcode. Ex. [contact-form-7 id=\"186\" title=\"Google contact\"]"
+msgstr "Nhập Biểu mẫu Liên hệ Mã ngắn. Ex. [contact-form-7 id=\"186\" title=\"Google contact\"]"
+
+#: inc/customizer/home/contactform.php:126
+msgid "Contact Form"
+msgstr "Mâu liên hệ"
+
+#: inc/customizer/home/contactform.php:109
+msgid "Phone Number"
+msgstr "Số điện thoại"
+
+#: inc/customizer/home/contactform.php:94
+msgid "Email"
+msgstr "Email"
+
+#: inc/customizer/home/contactform.php:79
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: inc/customizer/home/contactform.php:48 inc/customizer/home/feature.php:50
+#: inc/customizer/home/services.php:50
+msgid "Section Title"
+msgstr "Mục Tiêu đề"
+
+#: inc/customizer/home/contactform.php:32
+msgid "Enable contactform Section"
+msgstr "Kích hoạt tính năng mẫu liên hệ"
+
+#: inc/customizer/home/contactform.php:14
+msgid "Contact Form Section"
+msgstr "Mục Liên hệ"
+
+#: inc/customizer/home/blog.php:62 inc/customizer/home/contactform.php:64
+#: inc/customizer/home/feature.php:66 inc/customizer/home/services.php:66
+msgid "Section Description"
+msgstr "Phần Miêu tả"
+
+#: inc/customizer/home/blog.php:47
+msgid "Blog Section Title"
+msgstr "Tiêu đề của Blog"
+
+#: inc/customizer/home/blog.php:31
+msgid "Enable Blog Section"
+msgstr "Kích hoạt tính năng Mục Blog"
+
+#: inc/customizer/home/blog.php:13
+msgid "Blog Section"
+msgstr "Mục Blog"
+
+#: inc/customizer/home/about.php:70
+msgid "Read More Text"
+msgstr "Đọc thêm Văn bản"
+
+#: inc/customizer/home/about.php:62 sections/about.php:8 sections/blog.php:56
+#: sections/feature.php:68 template-parts/content.php:44
+msgid "Read More"
+msgstr "Đọc thêm"
+
+#: inc/customizer/home/about.php:51
+msgid "Select Page"
+msgstr "Chọn Trang"
+
+#: inc/customizer/home/about.php:34
+msgid "Enable About Section"
+msgstr "Kích hoạt tính năng phần giới thiệu"
+
+#: inc/customizer/home/about.php:16
+msgid "About Section"
+msgstr "Phần giới thiệu"
+
+#: inc/customizer/default.php:18
+msgid "Default section provided by WordPress customizer"
+msgstr "Phần mặc định được cung cấp bởi WordPress customizer"
+
+#: inc/customizer/default.php:17
+msgid "Default Settings"
+msgstr "Thiết lập mặc định"
+
+#: inc/customizer/customizer.php:42
+msgid "Choose Category"
+msgstr "Chọn loại"
+
+#: inc/customizer/customizer.php:26
+msgid "Choose page"
+msgstr "Chọn trang"
+
+#: inc/customizer/customizer.php:18
+msgid "Choose Post"
+msgstr "Chọn bài viết"
+
+#: inc/custom-functions.php:297
+msgid "Submit"
+msgstr "Đệ trình"
+
+#: inc/custom-functions.php:295
+msgid "Comment"
+msgstr "Bình luận"
+
+#: inc/custom-functions.php:280
+msgid "Website"
+msgstr "Website"
+
+#: inc/custom-functions.php:278
+msgid "Email*"
+msgstr "Email*"
+
+#: inc/custom-functions.php:276
+msgid "Name*"
+msgstr "Tên*"
+
+#: inc/custom-functions.php:52
+msgid "Primary"
+msgstr "căn bản"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Bình luận bị đóng."
+
+#: comments.php:53
+msgid "Newer Comments"
+msgstr "Nhận xét mới hơn"
+
+#: comments.php:52
+msgid "Older Comments"
+msgstr "Nhận xét cũ hơn"
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Bình luận"
+
+#: 404.php:20
+msgid "Previous page"
+msgstr "Trang trước"
+
+#: 404.php:19
+msgid "Home page"
+msgstr "Trang chủ"
+
+#: 404.php:18
+msgid "The Page you are looking for does not exist."
+msgstr "Trang bạn đang tìm kiếm không tồn tại."
+
+#: 404.php:17
+msgid "Sorry!"
+msgstr "Lấy làm tiếc!"
+
+#: 404.php:16
+msgid "404"
+msgstr "404"
+
+#. Author URI of the plugin/theme
+msgid "http://raratheme.com/"
+msgstr "http://raratheme.com/"
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr "Chủ đề Rara"
+
+#. Theme URI of the plugin/theme
+msgid "http://raratheme.com/wordpress-themes/wedding-band/"
+msgstr "http://raratheme.com/wordpress-themes/wedding-band/"
